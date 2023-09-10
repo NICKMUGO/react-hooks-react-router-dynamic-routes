@@ -9,6 +9,7 @@ function App() {
     { id: 2, title: "Se7en" },
     { id: 3, title: "Inception" }
   ]);
+  setMovies(movies);
 
   return (
     <div>
